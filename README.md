@@ -215,33 +215,33 @@ home.html
                 </div><br>
                 <div class="content">
                     <div class="text">
-                    <p><b>Welcome to EXOTICA</b></p>
-                    <p style="color:darkblue; font-family:'Tahoma'; font-size:20px;"> Official Car Rental website.</p>
+                    <p><b>Welcome to our store</b></p>
+                    <p style="color:darkblue; font-family:'Tahoma'; font-size:20px;"> This is the Mobile Store Official Website</p>
                     </div>
-                    <p>"What colour is your BUGATTI ?"....Book exotic Luxory Cars from your local host.</p>
+                    <p>Our store provides various Types and models of Mobile phones which u wish to get. You can view our store's products in our products page and can choose your desired Mobile Phones and inform us, we will deliver it.</p>
                     <b>Benefits of using our store:</b>
                     <ul>
-                        <p>Red carpet ready:
-                            Have a moment every time you pull up somewhere by choosing from a variety of vehicles that’ll blow your socks off. Make an entrance on a big date night or turn a special event into a breathtaking experience.</p>
-                        <p>Undeniable power:
-                            For those who love driving, a high-performance luxury car can help you get your fix. A powerful, stylish ride is just the thing you need for a truly joyful driving experience.</p>
-                        <p>Luxe business trip:
-                            In town for work? Find a luxurious, amazing vehicle to impress your clients or explore the city in a whole new way while enjoying a comfortable ride. Consider browsing full-size luxury sedans or other beautiful models to find what you need.</p>
-                        <li style="color:gold; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">EMI Available</li>
-                        </ul>
+                        <li>1- yr Warranty</li>
+                        <li>3 months replacement guarantee</li>
+                        <li>Cash on Delivery</li>
+                        <li>EMI Available</li>
+                        <li>Free accessories on payment above Rs.50000</li></ul>
                     <div style="text-align: center;color:mediumaquamarine;font-size:20px;"><b>Kindly use our services!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Aldrin lijo J E</footer></div>
+                Copyright &copy;2022 Developed by Kavinesh M</footer></div>
             </div>
         </div>
     </body>
 </html>
 
 
-product.html
+
+
+
+ product.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -572,15 +572,20 @@ Contact us:
 </html>
 ```
 ## OUTPUT:
-Home.html
-![output](/Screenshot%202023-01-21%20112113.png)
-Product.html
-![output](/Screenshot%202023-01-21%20114036.png)
-people.html
-![output](/212737425-07fa550e-1659-47b1-864a-51496beb7fae.png)
-![output](/212737438-aab71dcc-3bb2-49e8-9ab3-7ff1745b2dfc.png)
-![output](/212737451-86ae375a-3feb-42ff-a204-5ecae13ca515.png)
-![output](/212737470-3ed583a9-a931-48c6-b375-6f75cc83f4e8.png)
+
+![output](/home.png)
+
+
+
+![output](/prod1.png)
+1[output](/prod2.png)
+
+
+
+![output](/p1.png)
+![output](/p2.png)
+![output](/p3.png)
+![output](/p4%20(1).png)
 
 ## HTML validator:
 
