@@ -169,9 +169,9 @@ EXTERNAL CSS:
             margin-right:auto;
 
         }
-
-
-home.html
+```
+```h
+## home.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -236,12 +236,12 @@ home.html
         </div>
     </body>
 </html>
+```
 
 
 
-
-
- product.html
+```h
+ ## product.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -289,8 +289,9 @@ home.html
     </div>
   </body>
 </html>
-
-people.html:
+```
+```h
+## people.html:
 
 People.html:
 <!DOCTYPE html>
@@ -498,9 +499,9 @@ People.html:
         </div>
     </body>
 </html>
-
-
-Contact us:
+```
+```h
+## Contact us:
 
 
 <!DOCTYPE html>
