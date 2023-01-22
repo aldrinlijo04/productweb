@@ -578,7 +578,7 @@ Contact us:
 
 
 ![output](/prod1.png)
-1[output](/prod2.png)
+![output](/prod2.png)
 
 
 
